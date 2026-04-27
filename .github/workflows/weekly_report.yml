@@ -1,0 +1,40 @@
+# File: .github/workflows/weekly_report.yml
+name: Weekly Analysis Report
+
+on:
+  schedule:
+    # 毎週日曜 UTC 1:00 (日本時間 月曜 10:00)
+    # 日次実行(UTC 0:00)の1時間後に実行
+    - cron: '0 1 * * 0'
+  workflow_dispatch:  # 手動実行も可能
+
+jobs:
+  weekly-analysis:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas numpy
+
+      - name: Run weekly analysis
+        run: python paper_trade_analyzer.py
+
+      - name: Commit and push report
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add weekly_report.json
+          git diff --staged --quiet || git commit -m "Auto: Weekly report $(date -u +'%Y-%m-%d')"
+          git push

@@ -1,0 +1,2 @@
+timestamp,btc_price,btc_holdings,cash_balance,total_value,total_invested,unrealized_pnl,realized_pnl,total_pnl,roi_percent,avg_cost,total_trades
+2026-04-27T22:02:15.713248,77668.82,0.006431152166339079,9500,9999.5,500,-0.5,0,-0.5,-0.1,77746.56656656657,1

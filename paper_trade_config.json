@@ -1,0 +1,13 @@
+{
+  "monthly_budget": 500,
+  "initial_btc": 0,
+  "initial_cash": 10000,
+  "fee": 0.001,
+  "buy_threshold_low": 2.5,
+  "buy_threshold_mid": 3.5,
+  "buy_threshold_high": 4.5,
+  "sell_threshold": 4.0,
+  "sell_ratio": 0.05,
+  "cooldown_days": 14,
+  "start_date": "2026-04-27"
+}
