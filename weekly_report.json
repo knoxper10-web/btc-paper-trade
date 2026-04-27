@@ -1,0 +1,57 @@
+{
+  "generated_at": "2026-04-27T13:31:13.267667",
+  "trades": {
+    "trade_summary": {
+      "monthly_buy": 1
+    },
+    "monthly_buy": {
+      "count": 1,
+      "total_invested": 500.0,
+      "total_btc": 0.006431152166339079,
+      "avg_price": 77668.82
+    }
+  },
+  "performance": {
+    "current": {
+      "days_running": -1,
+      "btc_holdings": 0.006431152166339,
+      "cash_balance": 9500.0,
+      "total_value": 9999.691262465429,
+      "total_invested": 500.0,
+      "total_pnl": -0.3087375345730834,
+      "roi_percent": -0.0617475069146166,
+      "btc_price": 77698.56,
+      "avg_cost": 77746.56656656657,
+      "price_diff_percent": -0.061747506914622274
+    },
+    "risk": {
+      "max_value": 9999.691262465429,
+      "min_value": 9999.5,
+      "max_drawdown_percent": 0.0
+    },
+    "comparison": {
+      "strategy_roi": -0.0617475069146166,
+      "buy_hold_roi": 0.03829078386923257,
+      "alpha": -0.10003829078384917
+    },
+    "weekly": {
+      "value_start": 9999.5,
+      "value_end": 9999.691262465429,
+      "change": 0.1912624654287356,
+      "change_percent": 0.001912720290309089,
+      "btc_price_start": 77668.82,
+      "btc_price_end": 77698.56,
+      "btc_change_percent": 0.03829078386923257
+    }
+  },
+  "evaluation": {
+    "comments": [
+      "🟡 Buy&Holdとほぼ同等 (-0.1%)",
+      "✅ 最大DD 0.0% は健全"
+    ],
+    "warnings": [],
+    "recommendations": [
+      "💡 運用30日未満。継続して様子見を推奨"
+    ]
+  }
+}
