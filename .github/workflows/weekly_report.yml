@@ -3,9 +3,9 @@ name: Weekly Analysis Report
 
 on:
   schedule:
-    # 毎週日曜 UTC 1:00 (日本時間 月曜 10:00)
-    # 日次実行(UTC 0:00)の1時間後に実行
-    - cron: '0 1 * * 0'
+    # 毎週日曜 UTC 22:00 (日本時間 月曜 7:00)
+    # 日次実行(UTC 21:00)の1時間後に実行
+    - cron: '0 22 * * 0'
   workflow_dispatch:  # 手動実行も可能
 
 jobs:
