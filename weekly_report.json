@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T10:46:01.964224",
+  "generated_at": "2026-05-18T11:55:29.128671",
   "trades": {
     "trade_summary": {
       "monthly_buy": 2
@@ -13,41 +13,41 @@
   },
   "performance": {
     "current": {
-      "days_running": 13,
+      "days_running": 20,
       "btc_holdings": 0.012826606336412,
       "cash_balance": 9000.0,
-      "total_value": 10056.10390112297,
+      "total_value": 9988.043490846763,
       "total_invested": 1000.0,
-      "total_pnl": 56.103901122969546,
-      "roi_percent": 5.610390112296955,
-      "btc_price": 82336.97,
+      "total_pnl": -11.956509153236766,
+      "roi_percent": -1.1956509153236765,
+      "btc_price": 77030.78,
       "avg_cost": 77962.94466145796,
-      "price_diff_percent": 5.610390112297026
+      "price_diff_percent": -1.1956509153236206
     },
     "risk": {
       "max_value": 10056.10390112297,
       "min_value": 9987.199135251443,
-      "max_drawdown_percent": -0.16680151049849404
+      "max_drawdown_percent": -0.6768069517321313
     },
     "comparison": {
-      "strategy_roi": 5.610390112296955,
-      "buy_hold_roi": 6.010326923983134,
-      "alpha": -0.399936811686179
+      "strategy_roi": -1.1956509153236765,
+      "buy_hold_roi": -0.8214879535958008,
+      "alpha": -0.37416296172787566
     },
     "weekly": {
-      "value_start": 10025.38482027758,
-      "value_end": 10056.10390112297,
-      "change": 30.719080845388817,
-      "change_percent": 0.30641298459941346,
-      "btc_price_start": 79942.02,
-      "btc_price_end": 82336.97,
-      "btc_change_percent": 2.9958587486280663
+      "value_start": 10046.95737641054,
+      "value_end": 9988.043490846763,
+      "change": -58.91388556377751,
+      "change_percent": -0.5863853439062372,
+      "btc_price_start": 81623.88,
+      "btc_price_end": 77030.78,
+      "btc_change_percent": -5.627152250052325
     }
   },
   "evaluation": {
     "comments": [
       "🟡 Buy&Holdとほぼ同等 (-0.4%)",
-      "✅ 最大DD -0.2% は健全"
+      "✅ 最大DD -0.7% は健全"
     ],
     "warnings": [],
     "recommendations": [
