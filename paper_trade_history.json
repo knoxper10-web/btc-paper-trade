@@ -15,15 +15,23 @@
       "reason": "Monthly DCA purchase",
       "amount_usd": 500,
       "btc_bought": 0.006395454170072987
+    },
+    {
+      "timestamp": "2026-06-01T23:02:12.746987",
+      "type": "monthly_buy",
+      "price": 71281.51,
+      "reason": "Monthly DCA purchase",
+      "amount_usd": 500,
+      "btc_bought": 0.007007427311795163
     }
   ],
   "portfolio": {
-    "btc": 0.012826606336412066,
-    "cash": 9000,
-    "invested": 1000,
+    "btc": 0.01983403364820723,
+    "cash": 8500,
+    "invested": 1500,
     "realized": 0
   },
-  "last_monthly_buy": "2026-05-01",
+  "last_monthly_buy": "2026-06-01",
   "last_extra_buy": null,
   "last_sell": null
 }
