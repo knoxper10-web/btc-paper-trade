@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T22:51:45.433170",
+  "generated_at": "2026-06-14T22:56:39.082744",
   "trades": {
     "trade_summary": {
       "monthly_buy": 3
@@ -13,16 +13,16 @@
   },
   "performance": {
     "current": {
-      "days_running": 41,
+      "days_running": 48,
       "btc_holdings": 0.0198340336482072,
       "cash_balance": 8500.0,
-      "total_value": 9725.531451979845,
+      "total_value": 9789.16656885608,
       "total_invested": 1500.0,
-      "total_pnl": -274.46854802015514,
-      "roi_percent": -18.29790320134368,
-      "btc_price": 61789.32,
+      "total_pnl": -210.8334311439212,
+      "roi_percent": -14.055562076261412,
+      "btc_price": 64997.7,
       "avg_cost": 75627.58169141167,
-      "price_diff_percent": -18.297903201343747
+      "price_diff_percent": -14.055562076261408
     },
     "risk": {
       "max_value": 10056.10390112297,
@@ -30,25 +30,25 @@
       "max_drawdown_percent": -3.4886316064653276
     },
     "comparison": {
-      "strategy_roi": -18.29790320134368,
-      "buy_hold_roi": -20.445141306382673,
-      "alpha": 2.147238105038994
+      "strategy_roi": -14.055562076261412,
+      "buy_hold_roi": -16.314294462050547,
+      "alpha": 2.258732385789136
     },
     "weekly": {
-      "value_start": 9913.79986783502,
-      "value_end": 9725.531451979845,
-      "change": -188.26841585517468,
-      "change_percent": -1.8990540293838842,
-      "btc_price_start": 71281.51,
-      "btc_price_end": 61789.32,
-      "btc_change_percent": -13.316482773723504
+      "value_start": 9755.664307599884,
+      "value_end": 9789.16656885608,
+      "change": 33.502261256197016,
+      "change_percent": 0.3434134283412993,
+      "btc_price_start": 63308.57,
+      "btc_price_end": 64997.7,
+      "btc_change_percent": 2.6680905918424536
     }
   },
   "evaluation": {
     "comments": [
-      "🟢 Buy&Holdを2.1%上回り戦略が有効",
+      "🟢 Buy&Holdを2.3%上回り戦略が有効",
       "✅ 最大DD -3.5% は健全",
-      "🟡 運用41日でROI -18.30% (まだ短期)"
+      "🟡 運用48日でROI -14.06% (まだ短期)"
     ],
     "warnings": [],
     "recommendations": [
