@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T22:55:53.286102",
+  "generated_at": "2026-06-28T22:49:02.645422",
   "trades": {
     "trade_summary": {
       "monthly_buy": 3
@@ -13,42 +13,42 @@
   },
   "performance": {
     "current": {
-      "days_running": 55,
+      "days_running": 61,
       "btc_holdings": 0.0198340336482072,
       "cash_balance": 8500.0,
-      "total_value": 9760.49726657894,
+      "total_value": 9681.063350200227,
       "total_invested": 1500.0,
-      "total_pnl": -239.50273342105905,
-      "roi_percent": -15.966848894737268,
-      "btc_price": 63552.24,
+      "total_pnl": -318.93664979977257,
+      "roi_percent": -21.26244331998484,
+      "btc_price": 59547.31,
       "avg_cost": 75627.58169141167,
-      "price_diff_percent": -15.96684889473725
+      "price_diff_percent": -21.262443319984893
     },
     "risk": {
       "max_value": 10056.10390112297,
-      "min_value": 9705.2834820494,
-      "max_drawdown_percent": -3.4886316064653276
+      "min_value": 9681.063350200227,
+      "max_drawdown_percent": -3.7294816621859
     },
     "comparison": {
-      "strategy_roi": -15.966848894737268,
-      "buy_hold_roi": -18.175350159819615,
-      "alpha": 2.2085012650823472
+      "strategy_roi": -21.26244331998484,
+      "buy_hold_roi": -23.33176942819526,
+      "alpha": 2.0693261082104186
     },
     "weekly": {
-      "value_start": 9812.101455324846,
-      "value_end": 9760.49726657894,
-      "change": -51.60418874590687,
-      "change_percent": -0.5259239214032152,
-      "btc_price_start": 66154.04,
-      "btc_price_end": 63552.24,
-      "btc_change_percent": -3.9329419639374974
+      "value_start": 9760.49726657894,
+      "value_end": 9681.063350200227,
+      "change": -79.43391637871173,
+      "change_percent": -0.8138306298256182,
+      "btc_price_start": 63552.24,
+      "btc_price_end": 59547.31,
+      "btc_change_percent": -6.301792037542664
     }
   },
   "evaluation": {
     "comments": [
-      "🟢 Buy&Holdを2.2%上回り戦略が有効",
-      "✅ 最大DD -3.5% は健全",
-      "🟡 運用55日でROI -15.97% (まだ短期)"
+      "🟢 Buy&Holdを2.1%上回り戦略が有効",
+      "✅ 最大DD -3.7% は健全",
+      "🟡 運用61日でROI -21.26% (まだ短期)"
     ],
     "warnings": [],
     "recommendations": [
