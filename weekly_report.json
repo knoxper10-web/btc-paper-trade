@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-06-28T22:49:02.645422",
+  "generated_at": "2026-07-05T22:44:27.841091",
   "trades": {
     "trade_summary": {
-      "monthly_buy": 3
+      "monthly_buy": 4
     },
     "monthly_buy": {
-      "count": 3,
-      "total_invested": 1500.0,
-      "total_btc": 0.01983403364820723,
-      "avg_price": 75684.22666666667
+      "count": 4,
+      "total_invested": 2000.0,
+      "total_btc": 0.02805579572242859,
+      "avg_price": 71951.52
     }
   },
   "performance": {
     "current": {
-      "days_running": 61,
-      "btc_holdings": 0.0198340336482072,
-      "cash_balance": 8500.0,
-      "total_value": 9681.063350200227,
-      "total_invested": 1500.0,
-      "total_pnl": -318.93664979977257,
-      "roi_percent": -21.26244331998484,
-      "btc_price": 59547.31,
-      "avg_cost": 75627.58169141167,
-      "price_diff_percent": -21.262443319984893
+      "days_running": 68,
+      "btc_holdings": 0.0280557957224285,
+      "cash_balance": 8000.0,
+      "total_value": 9766.68748453919,
+      "total_invested": 2000.0,
+      "total_pnl": -233.3125154608097,
+      "roi_percent": -11.665625773040484,
+      "btc_price": 62970.5,
+      "avg_cost": 71286.51847151652,
+      "price_diff_percent": -11.665625773040523
     },
     "risk": {
       "max_value": 10056.10390112297,
-      "min_value": 9681.063350200227,
-      "max_drawdown_percent": -3.7294816621859
+      "min_value": 9663.131202038549,
+      "max_drawdown_percent": -3.9078026932531755
     },
     "comparison": {
-      "strategy_roi": -21.26244331998484,
-      "buy_hold_roi": -23.33176942819526,
-      "alpha": 2.0693261082104186
+      "strategy_roi": -11.665625773040484,
+      "buy_hold_roi": -18.924350852761773,
+      "alpha": 7.258725079721289
     },
     "weekly": {
-      "value_start": 9760.49726657894,
-      "value_end": 9681.063350200227,
-      "change": -79.43391637871173,
-      "change_percent": -0.8138306298256182,
-      "btc_price_start": 63552.24,
-      "btc_price_end": 59547.31,
-      "btc_change_percent": -6.301792037542664
+      "value_start": 9681.063350200227,
+      "value_end": 9766.68748453919,
+      "change": 85.6241343389629,
+      "change_percent": 0.8844496853456896,
+      "btc_price_start": 59547.31,
+      "btc_price_end": 62970.5,
+      "btc_change_percent": 5.7486895713677155
     }
   },
   "evaluation": {
     "comments": [
-      "🟢 Buy&Holdを2.1%上回り戦略が有効",
-      "✅ 最大DD -3.7% は健全",
-      "🟡 運用61日でROI -21.26% (まだ短期)"
+      "✅ Buy&Holdを7.3%上回る優秀な結果",
+      "✅ 最大DD -3.9% は健全",
+      "🟡 運用68日でROI -11.67% (まだ短期)"
     ],
     "warnings": [],
     "recommendations": [
