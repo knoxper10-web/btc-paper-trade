@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T22:34:09.226977",
+  "generated_at": "2026-07-19T22:37:12.476076",
   "trades": {
     "trade_summary": {
       "monthly_buy": 4
@@ -13,16 +13,16 @@
   },
   "performance": {
     "current": {
-      "days_running": 75,
+      "days_running": 82,
       "btc_holdings": 0.0280557957224285,
       "cash_balance": 8000.0,
-      "total_value": 9793.070032604732,
+      "total_value": 9805.389332506453,
       "total_invested": 2000.0,
-      "total_pnl": -206.92996739526825,
-      "roi_percent": -10.346498369763411,
-      "btc_price": 63910.86,
+      "total_pnl": -194.61066749354904,
+      "roi_percent": -9.730533374677451,
+      "btc_price": 64349.96,
       "avg_cost": 71286.51847151652,
-      "price_diff_percent": -10.346498369763369
+      "price_diff_percent": -9.730533374677453
     },
     "risk": {
       "max_value": 10056.10390112297,
@@ -30,25 +30,25 @@
       "max_drawdown_percent": -3.9078026932531755
     },
     "comparison": {
-      "strategy_roi": -10.346498369763411,
-      "buy_hold_roi": -17.713620472153437,
-      "alpha": 7.3671221023900255
+      "strategy_roi": -9.730533374677451,
+      "buy_hold_roi": -17.148271339773157,
+      "alpha": 7.417737965095705
     },
     "weekly": {
-      "value_start": 9766.68748453919,
-      "value_end": 9793.070032604732,
-      "change": 26.382548065541414,
-      "change_percent": 0.270127902702999,
-      "btc_price_start": 62970.5,
-      "btc_price_end": 63910.86,
-      "btc_change_percent": 1.4933341802907618
+      "value_start": 9739.536207670852,
+      "value_end": 9805.389332506453,
+      "change": 65.8531248356012,
+      "change_percent": 0.6761423073075701,
+      "btc_price_start": 62002.74,
+      "btc_price_end": 64349.96,
+      "btc_change_percent": 3.7856714074248954
     }
   },
   "evaluation": {
     "comments": [
       "✅ Buy&Holdを7.4%上回る優秀な結果",
       "✅ 最大DD -3.9% は健全",
-      "🟡 運用75日でROI -10.35% (まだ短期)"
+      "🟡 運用82日でROI -9.73% (まだ短期)"
     ],
     "warnings": [],
     "recommendations": [
