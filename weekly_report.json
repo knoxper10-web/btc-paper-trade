@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T22:07:19.939497",
+  "generated_at": "2026-08-30T23:57:06.624841",
   "trades": {
     "trade_summary": {
       "monthly_buy": 5
@@ -13,42 +13,42 @@
   },
   "performance": {
     "current": {
-      "days_running": 117,
+      "days_running": 125,
       "btc_holdings": 0.0360159855303258,
       "cash_balance": 7500.0,
-      "total_value": 10309.021411295998,
+      "total_value": 10322.822376791362,
       "total_invested": 2500.0,
-      "total_pnl": 309.0214112959984,
-      "roi_percent": 12.360856451839936,
-      "btc_price": 77993.74,
+      "total_pnl": 322.8223767913624,
+      "roi_percent": 12.912895071654493,
+      "btc_price": 78376.93,
       "avg_cost": 69413.62184563772,
-      "price_diff_percent": 12.360856451839929
+      "price_diff_percent": 12.912895071654539
     },
     "risk": {
-      "max_value": 10309.021411295998,
+      "max_value": 10369.21348727341,
       "min_value": 9663.131202038549,
       "max_drawdown_percent": -3.9078026932531755
     },
     "comparison": {
-      "strategy_roi": 12.360856451839936,
-      "buy_hold_roi": 0.41834033271008764,
-      "alpha": 11.942516119129849
+      "strategy_roi": 12.912895071654493,
+      "buy_hold_roi": 0.911704336437702,
+      "alpha": 12.001190735216792
     },
     "weekly": {
-      "value_start": 9815.367585304875,
-      "value_end": 10309.021411295998,
-      "change": 493.6538259911231,
-      "change_percent": 5.029397235516675,
-      "btc_price_start": 64287.22,
-      "btc_price_end": 77993.74,
-      "btc_change_percent": 21.320753953896276
+      "value_start": 10341.529079675816,
+      "value_end": 10322.822376791362,
+      "change": -18.70670288445399,
+      "change_percent": -0.18088913873691714,
+      "btc_price_start": 78896.33,
+      "btc_price_end": 78376.93,
+      "btc_change_percent": -0.6583322697012783
     }
   },
   "evaluation": {
     "comments": [
-      "✅ Buy&Holdを11.9%上回る優秀な結果",
+      "✅ Buy&Holdを12.0%上回る優秀な結果",
       "✅ 最大DD -3.9% は健全",
-      "✅ 運用117日でROI +12.36%"
+      "✅ 運用125日でROI +12.91%"
     ],
     "warnings": [],
     "recommendations": [
